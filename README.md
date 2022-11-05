@@ -1,2 +1,4 @@
 # javaScript-clock
- JavaScript Clock
+**Link to Github Project**
+
+- [View Live](https://kerwindows.github.io/around-react/)
